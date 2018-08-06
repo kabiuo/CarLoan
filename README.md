@@ -7,16 +7,21 @@
 > com.woniu.carloan
 >> bean
 >>> 这里放的都是对应数据库的表的实体类
+>
 >> dao
 >>> dao接口类
->>> Impl
->>>> dao接口的实现类
+>
+>>>> Impl
+>>>>> dao接口的实现类
+>
 >> servlet
 >>> View与后台服务的服务连接器
+>
 >> service
->>> service服务接口类
->>> Impl
->>>> service服务实现类
+>>>> service服务接口类
+>>>>> Impl
+>>>>>> service服务实现类
+>
 >> util
 >>> 与数据库连接的一些类
 
