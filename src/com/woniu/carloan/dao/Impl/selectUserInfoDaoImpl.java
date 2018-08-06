@@ -28,6 +28,14 @@ public class selectUserInfoDaoImpl implements selectUserInfoDao {
                             userin.setUsername(rs.getString("username"));
                             userin.setIDcard(rs.getString("IDcard"));
                             userin.setCompany(rs.getString("company"));
+                            userin.setAddress(rs.getString("address"));
+                            userin.setBirthday(rs.getString("birthday"));
+                            userin.setNation(rs.getString("nation"));
+                            userin.setSex(rs.getString("sex"));
+                            userin.setIssuingorgan(rs.getString("issuingorgan"));
+                            userin.setProducttype(rs.getString("producttype"));
+                            userin.setStarttime(rs.getString("starttime"));
+                            userin.setStoptime(rs.getString("stoptime"));
                             uinfo.add(userin);
                         }
                     }catch (Exception e) {
