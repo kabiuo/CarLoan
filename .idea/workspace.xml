@@ -6,10 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac87232-6db9-464a-afe3-c006bc32bf7d" name="Default" comment="">
+    <list default="true" id="aac87232-6db9-464a-afe3-c006bc32bf7d" name="Default" comment="update selectUserInfoDaoImpl select infomation incomplete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/CarLoan_war_exploded/WEB-INF/classes/com/woniu/carloan/dao/Impl/selectUserInfoDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CarLoan_war_exploded/WEB-INF/classes/com/woniu/carloan/dao/Impl/selectUserInfoDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarLoan/com/woniu/carloan/dao/Impl/selectUserInfoDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarLoan/com/woniu/carloan/dao/Impl/selectUserInfoDaoImpl.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -445,7 +443,7 @@
       <workItem from="1526034694700" duration="614000" />
       <workItem from="1527818123628" duration="61000" />
       <workItem from="1533554816363" duration="283000" />
-      <workItem from="1533555463190" duration="3940000" />
+      <workItem from="1533555463190" duration="4213000" />
     </task>
     <task id="LOCAL-00001" summary="update selectUserInfoDaoImpl select infomation incomplete">
       <created>1533561794218</created>
@@ -454,14 +452,21 @@
       <option name="project" value="LOCAL" />
       <updated>1533561794218</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update selectUserInfoDaoImpl select infomation incomplete">
+      <created>1533561921750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533561921750</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111468000" />
+    <option name="totallyTimeSpent" value="111741000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="816" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="816" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
